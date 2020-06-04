@@ -36,7 +36,7 @@ public class PatternString {
     list.add(t);
     Collections.sort(list);
     if(list.get(0).equals(t)) 
-    	Arrays.sort(arr);
+    	Arrays.sort(list);
     
 	}
 	
