@@ -42,7 +42,7 @@ public class Solution {
 			patloop:				
 				for (int j = 0; j<pattern.length(); j++) {
 					if((vowels.contains(""+s.charAt(i+j)) && pattern.charAt(j) !='0') || 
-						(!vowels.contains(""+s.charAt(i+j)) && pattern.charAt(j) =='0') ) {
+						(!vowels.contains(""+s.charAt(i+j)) && pattern.charAt(j) =='0')) {
 						flag = false;
 						break patloop;
 					}
