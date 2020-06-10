@@ -36,7 +36,8 @@ public class Solution {
 	            map.put(el, el.length());
 	          }
 	          
-	          List<Integer> sizes = new ArrayList<Integer>(map.values());
+	          List<Integer> sizes = new ArrayList<Integer>(map.values());       
+	          
 	          
 	          Collections.sort(sizes);
 	          
