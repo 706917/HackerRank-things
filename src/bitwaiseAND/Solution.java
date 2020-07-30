@@ -36,9 +36,7 @@ public class Solution {
             int max = 0;
             int x = 0;
             for (int i = 1; i<k; i++){
-            	
-                if(Byte.) {
-                }             
+            	        
             }
             System.out.print(x&(x+1));
             
