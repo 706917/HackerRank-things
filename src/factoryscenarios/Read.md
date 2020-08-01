@@ -24,3 +24,6 @@ string scenarios[n]: each string contains three space-separated integers, starti
 Print      int: For each test case the function must print an integer, the maximum number of containers the manufacturer can obtain, each on a new line. No return value is expected.        
 
 
+# Solution
+
+[Please check my solution over here](https://github.com/706917/HackerRank-things/blob/master/src/factoryscenarios/Solution.java)
